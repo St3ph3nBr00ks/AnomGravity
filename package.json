@@ -1,7 +1,7 @@
 {
-  "name": "com.studiosteve.gravity",
+  "name": "com.studiosteve.anomgravity",
   "version": "1.0.0",
-  "displayName": "Gravity",
+  "displayName": "Anom Gravity",
   "description": "This package provides a script that allows expanded gravity effects in Unity.",
   "unity": "2021.3",
   "unityRelease": "27f1",
@@ -12,7 +12,7 @@
     
   },
   "keywords": [
-    "gravity"
+    "anomgravity"
   ],
   "author": {
     "name": "Stephen West",
